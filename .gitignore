@@ -27,7 +27,7 @@ Thumbs.db
 .DS_Store
 
 # Dependencies
-package-lock.json
+
 yarn.lock
 
 # gh-pages deployment
